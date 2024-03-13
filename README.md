@@ -1,17 +1,10 @@
-# TUP Python Práctica 3
+# UTN - FRRO - TUP - Programacion II
 
-Este repositorio fue creado con la [Autograding Python Assignments
-Template](https://github.com/ELC/python-assignment-template)
+## TUP Python Práctica 3
 
-Cada ejercicio de este práctico está diseñado para ser autocorrejido fuera del
-sistema de Github Classroom simplemente ejecutando:
+Resoluciones propuestas por la cátedra.
 
-`python exercises/<exercise>.py`.
 
-## Temas a cubrir
 
-- Ejercicio 1: Variables de Instancia y Métodos de instancia.
-- Ejercicio 2: Variables de Clase y Métodos de Clase.
-- Ejercicio 3: Properties.
-- Ejercicio 4: DataClasses y Sobrecarga de operadores
-- Ejercicio 5: Herencia y Clases Abstractas.
+#### Importante: 
+NO ENTRA DENTRO DEL TEMARIO DataClasses, por lo tanto dichos ejercicios son ignorados.
