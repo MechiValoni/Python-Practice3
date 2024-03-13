@@ -1,6 +1,8 @@
 # UTN - FRRO - TUP - Programacion II
 
-## TUP Python Práctica 3
+## work in progress!!
+
+### TUP Python Práctica 3
 
 Resoluciones propuestas por la cátedra.
 
